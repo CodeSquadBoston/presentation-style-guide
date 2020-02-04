@@ -11,29 +11,3 @@ Individual list items following a complete sentence are usually capitalized but 
 If the list is introduced with a complete sentence, that sentence should be punctuated with a colon or period.
 
 Read more on <a href="https://erinwrightwriting.com/write-vertical-lists/">bulleted lists</a>.
-
-#### Bad
-Not indented at all
-```css
-.my-class {
-background-color: red;
-font-size: 20px;
-}
-```
-
-Not indented a consistent amount
-```css
-.my-class {
-  background-color: red;
-    font-size: 20px;
-}
-```
-
-#### Good
-```css
-.my-class {
-  background-color: red;
-  font-size: 20px;
-}
-```
-
