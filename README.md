@@ -1,9 +1,8 @@
-# CodeSquad's best practices for presentations and classroom slides
+# CodeSquad Style Guide for presentations and classroom slides
+
+This Style Guide is based on AP Style.  View a <a href="https://www.thebalancesmb.com/associated-press-cheat-sheet-1360728#capitalization">cheat sheet</a>.
 
 ### Keep all words in lowercase unless a rule says to capitalize them
-
-
-Read more at ```https://www.thebalancesmb.com/associated-press-cheat-sheet-1360728#capitalization```
 
 #### Bad
 Not indented at all
